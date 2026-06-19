@@ -12,9 +12,9 @@ function main() {
         "Rubeus Hagrid",
         "Luna Lovegood"
     ];
-    let opcion;
-    let indiceImpostor;
-    let impostor;
+    let opcion=-1;
+    let indiceImpostor=-1;
+    let impostor=-1;
 
     mostrarPersonajes(personajes);
 
